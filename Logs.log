@@ -1,6 +1,6 @@
 .LOG
 2:34 PM 17-Jun-17
-This is my another check-in after a long interval. Just to make sure things are working fine.
+Remove conflict happened after merge in GitHub
 <<<<<<< HEAD
 2:43 PM 17-Jun-17
 Change Made From client.
@@ -9,3 +9,11 @@ Change made from git server.
 >>>>>>> 9e9c00633c033293d5620a78e6fd3f6ce3f25904
 
 //Above is what shown after conflicts happen.
+To avoid above scenarios remove 3 lines
+1. <<<<<<<< HEAD
+2. ========
+3. >>>>>>>> <branch>
+
+And then add or stage your changes
+$ git add .
+$ git commit -m "Conflict Resolved" 
