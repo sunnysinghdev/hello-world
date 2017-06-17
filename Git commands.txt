@@ -29,7 +29,8 @@ git branch <branchName>
 git checkout <branchName>
 git add -A 		// Add Changes
 git commit -m "Message" // Commit your changes
-git branch master
+git checkout master
 git merge <branchName> 
 git pull -- rebose origin master  // update code from server
 git push
+git merge --abort
