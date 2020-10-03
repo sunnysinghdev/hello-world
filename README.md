@@ -10,6 +10,10 @@ Refer issue
 -------------------------
 This new commit after release tag v1.0
 
+release-2.0
+--------------------------
+This change is done in `release 2.0` branch. this happened while merging. removed < and == ad master > master
+
 -------------------------
 I have added history file in master branche.
 ---------------------------
