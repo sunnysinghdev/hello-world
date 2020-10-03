@@ -7,3 +7,5 @@ Refer issue
 -------------------------
 This new commit after release tag v1.0
 
+--------------------------
+This change is done in `release 2.0` branch
