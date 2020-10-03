@@ -15,13 +15,9 @@ I have added history file in master branche.
 ---------------------------
 Whenever you find yourself wasting time, remember. There is someone out there who is equipping him/her at this very moment. The day you compete with him, you'll lose.
 
-Inspirational Quotes
-Power Features of Html5
-
-
-Specialization
-Marketing
-Essential commands for operating Git hub
+#### Essential commands for operating Git hub
+Looks fine
+```
 git --version
 git config --global user.name "sunnysinghdev"
 git config --global user.email "sunnysingh.vpcoe@gmail.com"
@@ -49,4 +45,5 @@ git merge <branchName>
 git pull -- rebose origin master  // update code from server
 git push
 git merge --abort
+```
 ----------------------------
